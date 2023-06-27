@@ -55,7 +55,7 @@
     }
   },
   "56": {
-    "name": "BSC",
+    "name": "Smart Chain (BSC)",
     "rpc": "https://bscrpc.com/",
     "chainId": 56,
     "explorer": "https://bscscan.com",
